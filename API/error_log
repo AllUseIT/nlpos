@@ -1,0 +1,34 @@
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[08-Aug-2024 13:53:27 UTC] PHP Notice:  ob_flush(): Failed to flush buffer. No buffer to flush in /home/noirscen/public_html/test_nl/API/product-upload.php on line 93
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 3
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 3
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 4
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 4
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 5
+[13-Aug-2024 07:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noirscen/public_html/test_nl/API/db.php:2) in /home/noirscen/public_html/test_nl/API/db.php on line 5
+[13-Aug-2024 18:11:23 UTC] PHP Warning:  Undefined variable $response in /home/noirscen/public_html/test_nl/API/update_products.php on line 65
+[13-Aug-2024 18:11:34 UTC] PHP Warning:  Undefined variable $response in /home/noirscen/public_html/test_nl/API/update_products.php on line 65
+[13-Aug-2024 18:13:10 UTC] PHP Warning:  Undefined variable $response in /home/noirscen/public_html/test_nl/API/update_products.php on line 65
+[13-Aug-2024 20:25:44 UTC] PHP Warning:  Undefined array key "transactionsData" in /home/noirscen/public_html/test_nl/API/insert_data.php on line 6
+[13-Aug-2024 20:25:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/noirscen/public_html/test_nl/API/insert_data.php on line 11
+[13-Aug-2024 20:25:44 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/noirscen/public_html/test_nl/API/insert_data.php on line 12
+[13-Aug-2024 20:25:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/noirscen/public_html/test_nl/API/insert_data.php on line 12
+[13-Aug-2024 20:25:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'info_branch' cannot be null in /home/noirscen/public_html/test_nl/API/insert_data.php:18
+Stack trace:
+#0 /home/noirscen/public_html/test_nl/API/insert_data.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/noirscen/public_html/test_nl/API/insert_data.php on line 18
